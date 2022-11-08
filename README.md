@@ -1,4 +1,7 @@
 # algorithms-data-struction
+
+このレポジトリでは、以下の著者に掲載された問題に対して自力解答したコードをまとめている。
+
 問題解決能力を鍛える！アルゴリズムとデータ構造 大槻兼資 様 【著】
 
 https://www.amazon.co.jp/dp/4065128447
@@ -8,8 +11,6 @@ https://www.amazon.co.jp/dp/4065128447
 以下のサイトでは、著書自身の解答をまとめてくれている。
 
 https://github.com/drken1215/book_algorithm_solution
-
-このレポジトリでは、問題に対して自力で解答したコードをまとめている。
 
 【コードファイル名の意味】
 
