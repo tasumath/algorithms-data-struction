@@ -3,6 +3,8 @@
 
 https://www.amazon.co.jp/dp/4065128447
 
+https://raw.githubusercontent.com/drken1215/book_algorithm_solution/master/fig/book_image.png
+
 以下のサイトでは、著書自身の解答をまとめてくれている。
 
 https://github.com/drken1215/book_algorithm_solution
