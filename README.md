@@ -1,6 +1,14 @@
 # algorithms-data-struction
 問題解決能力を鍛える！アルゴリズムとデータ構造 大槻兼資 様 【著】
 
+https://www.amazon.co.jp/dp/4065128447
+
+以下のサイトでは、著書自身の解答をまとめてくれている。
+
+https://github.com/drken1215/book_algorithm_solution
+
+このレポジトリでは、問題に対して自力で解答したコードをまとめている。
+
 【コードファイル名の意味】
 
 1."codeX.Y.cpp" 表記について
@@ -10,11 +18,6 @@
 2."chapter z" ファイルについて(zは任意の自然数)
 
 章末の問題に対する解答になっている。例えば、"chapter 4"というファイルの中に "4.2.cpp" というファイルがあれば、第4章における章末問題の二問目のコードになっている。
-
-以下のサイトでは、著書自身の解答をまとめてくれている。
-
-https://github.com/drken1215/book_algorithm_solution
-
 
 ＊自力解答の定義をまとめておく
 
