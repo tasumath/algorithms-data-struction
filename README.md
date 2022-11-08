@@ -3,7 +3,7 @@
 
 https://www.amazon.co.jp/dp/4065128447
 
-https://raw.githubusercontent.com/drken1215/book_algorithm_solution/master/fig/book_image.png
+![book_image](https://user-images.githubusercontent.com/117615272/200555812-3d832be4-bd2e-4e6b-a40b-88bf68410335.png)
 
 以下のサイトでは、著書自身の解答をまとめてくれている。
 
