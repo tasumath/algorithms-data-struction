@@ -14,7 +14,7 @@ https://github.com/drken1215/book_algorithm_solution
 
 【コードファイル名の意味】
 
-1."codeX.Y.cpp" 表記について
+1."Code-Sum"ファイルの中にある "codeX.Y.cpp"
 
 章ごとの掲載された例題に対して、自作したコードをまとめている。Xは章の値であり、Yは章ごとの例題の掲載順である。
 
